@@ -38,11 +38,11 @@ O ebook está disponível no formato PDF para garantir a máxima compatibilidade
 
 ### 📝 Autor e Contato
 
-Este ebook foi desenvolvido por **[Seu Nome / Nome da Clínica / Nome da Nutricionista]**.
+Este ebook foi desenvolvido por **[Dr. Lucas Mendes / Instituto VitaZen / Dra. Isabella Santos]**.
 
-* **Para dúvidas, feedback ou suporte:** [Seu Email de Contato]
-* **Visite nosso site/blog:** [Seu Link (Ex: www.seusite.com.br/saude)]
-* **Siga-nos nas Redes Sociais:** [Link para Instagram/Facebook]
+* **Para dúvidas, feedback ou suporte:** [Dr. Lucas Mendes]
+* **Visite nosso site/blog:** [www.CuraVitaZen.com]
+
 
 ### 📜 Aviso Legal (Disclaimer)
 
